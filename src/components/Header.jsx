@@ -1,6 +1,6 @@
 import { Link, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import logoImg from "../assets/easyDrive-logo.png";
+import logoImg from "../assets/easydrive-logo.png";
 
 export default function Header() {
   const [user, setUser] = useState(null);
